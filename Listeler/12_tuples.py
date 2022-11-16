@@ -29,11 +29,11 @@ thistuple2 = (1,4,"beş",True,2)
 # thistuple.append(45) -
 # print(thistuple)
 
-print(list1.count(3))
+# print(list1.count(3))
 
-print(thistuple.count(2))
+# print(thistuple.count(2))
 
-print(thistuple+thistuple2)
+# print(thistuple+thistuple2)
 
 list2 = tuple([6,8,3,12])
 print(list2)
